@@ -1,0 +1,6 @@
+# Remove random metadata from IDE
+.vscode
+*.pyc
+# Remove any analysis documents
+analysis.txt
+statistics.txt
